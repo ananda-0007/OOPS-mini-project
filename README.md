@@ -1,11 +1,3 @@
-Perfect 👍 You’ve got a well-structured mini project — so here’s a **professional, ready-to-upload `README.md`** file for your *Taxi Booking Application (Java, MySQL, Swing)* GitHub repo.
-
-You can just copy this entire block and save it as
-📄 `README.md` inside your main folder (`taxi_booking/`).
-
----
-
-```markdown
 # 🚖 Taxi Booking Application (Java Mini Project)
 
 A **Java-based Taxi Booking System** built as a mini-project covering core concepts from all **five units** of Object-Oriented Programming using Java.  
@@ -175,7 +167,4 @@ This project is licensed under the **MIT License** — feel free to modify and u
 
 ```
 
----
 
-Would you like me to add **GitHub tags**, a **screenshot section**, or a **demo command section** (like “Run Screenshot”) before you upload?
-```
